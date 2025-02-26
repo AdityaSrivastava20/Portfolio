@@ -1,0 +1,45 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+ 
+  {
+    "title": "Postgre",
+    "imageSrc": "skills/postgre.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  }
+]
