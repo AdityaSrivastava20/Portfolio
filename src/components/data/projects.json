@@ -29,7 +29,7 @@
   },
   {
     "key": 5,
-    "title": "ThemeSwitcher",
+    "title": "PasswordGenerator",
     "imageSrc": "https://user-images.githubusercontent.com/35935634/174480940-2e787f38-bcc5-4922-b6cc-8298f374bdb6.gif",
     "description": "This is a project made with complete React js.",
     "source": "https://github.com/AdityaSrivastava20/React/tree/main/passwordGenerator"

@@ -7,6 +7,7 @@ import Contact from "./components/Contact"
 import Aos from "aos"
 import "aos/dist/aos.css"
 import About from "./components/About"
+import { Analytics } from "@vercel/analytics/react"
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
         <Project />
         <Contact />
       </div>
+      <Analytics />
     </>   
   )
 }
