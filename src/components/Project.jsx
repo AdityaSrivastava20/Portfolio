@@ -6,7 +6,7 @@ function Project() {
     <>
       <div className="container projects my-5" id="projects">
         <h2
-          className="text-center "
+         
           data-aos="fade-down"
           data-aos-duration="1000"
         >

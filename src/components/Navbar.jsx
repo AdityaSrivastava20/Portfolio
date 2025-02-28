@@ -21,9 +21,13 @@ function Navbar() {
         <a href="#projects" className="nav_items">
           Projects
         </a>
+        <a href="#certificate" className="nav_items">
+          Certificate
+        </a>
         <a href="#contact" className="nav_items">
           Contact
         </a>
+       
       </div>
     </div>
   </>

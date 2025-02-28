@@ -6,7 +6,6 @@ function Skills() {
     <>
     <div className="container skills" id="skills">
     <h1
-          className="text-center"
           data-aos="fade-down"
           data-aos-duration="1000"
         >
