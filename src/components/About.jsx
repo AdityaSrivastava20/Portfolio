@@ -11,7 +11,7 @@ const About = () => {
     <div className="about" id="about">
     <h2 data-aos="fade-down">About Me</h2>
     <p data-aos="fade-up">
-      Hi, I'm a motivated and enthusiastic Full Stack Developer with a strong foundation in 
+      Hi, I'm a motivated and enthusiastic Full Stack Python Developer with a strong foundation in 
       Django REST Framework, React, and modern web technologies. I enjoy learning new technologies 
       and building projects to improve my skills.
     </p>

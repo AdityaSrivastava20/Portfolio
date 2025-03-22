@@ -10,7 +10,7 @@ function Home() {
       strings: [
         "Welcome to my profile",
         "My Name is Aditya Srivastava",
-        "I'm full stack developer",
+        "I'm full stack Python developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
